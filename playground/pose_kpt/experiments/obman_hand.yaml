@@ -1,0 +1,8 @@
+hand_branch: True
+obj_branch: False
+obj_rot: False
+scene_ordinal_weight: 0.0
+hand_ordinal_weight: 1.0
+corner_weight: 0.0
+train_batch_size: 32
+depth_dim: 0.20

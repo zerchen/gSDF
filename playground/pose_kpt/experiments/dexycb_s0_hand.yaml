@@ -1,0 +1,14 @@
+trainset_3d: dexycb
+trainset_3d_split: s0_29k
+testset: dexycb
+testset_split: s0_5k
+num_testset_samples: 5928
+hand_branch: True
+obj_branch: False
+obj_rot: False
+train_batch_size: 32
+corner_weight: 0.0
+hand_ordinal_weight: 1.0
+scene_ordinal_weight: 0.0
+depth_dim: 0.20
+norm_factor: 0.02788814
