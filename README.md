@@ -114,8 +114,7 @@ If you find this work useful, please consider citing:
 ```
 @InProceedings{chen2023gsdf,
 author       = {Chen, Zerui and Chen, Shizhe and Schmid, Cordelia and Laptev, Ivan},
-title        = {{gSDF}: {Geometry-Driven} Signed Distance Functions for {3D} Hand-Object Reconstruction
-},
+title        = {{gSDF}: {Geometry-Driven} Signed Distance Functions for {3D} Hand-Object Reconstruction},
 booktitle    = {CVPR},
 year         = {2023},
 }
