@@ -121,5 +121,5 @@ year         = {2023},
 ```
 
 ## Acknowledgement
-Some of the codes are built upon [manopth](https://github.com/hassony2/manopth), [PoseNet](https://github.com/mks0601/3DMPPE_POSENET_RELEASE), [PCL](https://github.com/yu-frank/PerspectiveCropLayers) [Grasping Field](https://github.com/korrawe/grasping_field), and [HALO](https://github.com/korrawe/halo).
+Some of the codes are built upon [manopth](https://github.com/hassony2/manopth), [PoseNet](https://github.com/mks0601/3DMPPE_POSENET_RELEASE), [PCL](https://github.com/yu-frank/PerspectiveCropLayers), [Grasping Field](https://github.com/korrawe/grasping_field), and [HALO](https://github.com/korrawe/halo).
 Thanks them for their great works!
