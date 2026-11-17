@@ -13,6 +13,5 @@ pycocotools
 yacs
 lmdb
 fire
-setuptools==59.5.0
 einops
 

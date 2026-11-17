@@ -15,6 +15,12 @@ import signal
 import subprocess
 import torch
 import torch.backends.cudnn as cudnn
+try:
+    # torch<1.11 reads setuptools.distutils.version without importing it, which
+    # fails on setuptools>=59.6; import it here instead of pinning an old setuptools.
+    import distutils.version  # noqa: F401
+except ImportError:
+    pass
 from torch.utils.tensorboard import SummaryWriter
 from loguru import logger
 import _init_paths
